@@ -1,3 +1,4 @@
+# バックグラウンド処理
 from flask import Flask, jsonify
 from game_logic import get_hanafuda_cards
 
